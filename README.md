@@ -1,4 +1,4 @@
-# Streaming CLusters by Darwin Ecosystem LLC
+# Streaming Clusters by Darwin Ecosystem LLC
 This is a D3.js example reading the KeywordMeme™ API JSON output to gain a quick assesment of the clustered themes result.
 
 The information is generated  in JSON by Darwin Ecosystem's [KeywordMeme™ API](http://www.keywordmeme.com) which is documented on this GitHub [Wiki](http://github.com/DarwinEcosystem/Documentation/wiki/REST-API-Resources)
@@ -10,7 +10,7 @@ The information is generated  in JSON by Darwin Ecosystem's [KeywordMeme™ API]
 ![streaming cluster](https://raw.githubusercontent.com/DarwinEcosystem/streaming-clusters/master/screen-shot.png)
 
 <hr>
-## Streaming CLusters License
+## Streaming Clusters License
 #### Copyright (c) 2015 Darwin Ecosystem LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
